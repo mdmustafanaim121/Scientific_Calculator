@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="whitePrimary">#ffffff</color>
+    <color name="scroll_button_color">#404b69</color>
+    <color name="number_button_color">#DCD9D9</color>
+    <color name="function_button_color">#F61F1F</color>
+    <color name="equal_button_color">#4D90DC</color>
+</resources>
